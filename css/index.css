@@ -10,15 +10,18 @@ h2 {
     text-align: center;
 }
 
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
 button {
     font-size: 20px;
-    border: solid red;
-    background-color: orangered;
+    margin-right: 50px;
 }
 
-#marzipan {
-    border: solid orange;
-    background-color: orange;
+#macarons {
+    margin-right: 80px;
 }
 a:link {
     color:pink;
